@@ -287,7 +287,7 @@ wcwidth==0.2.13
     # via prompt-toolkit
 websockets==10.3
     # via superdesk-core
-werkzeug==1.0.1
+werkzeug==3.0.6
     # via
     #   flask
     #   superdesk-core
