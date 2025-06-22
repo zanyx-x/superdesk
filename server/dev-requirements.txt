@@ -6,3 +6,4 @@ pep8
 httmock
 wooper
 mypy
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
